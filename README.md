@@ -6,4 +6,14 @@ Your digital notebook for creating and timing yoga sequences.
 
 AsanaPad empowers yoga teachers to design, organize, and track their class sequences in one intuitive workspace, freeing time to focus on teaching and connection.
 
-<small>by [@mattiaerre](https://github.com/mattiaerre) and ChatGPT</small>
+<small>
+  &copy; 2025 by
+  <a
+    className="underline hover:text-gray-600"
+    href="https://github.com/AsthangaLabs"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    AshtangaLabs
+  </a>
+</small>
