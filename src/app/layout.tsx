@@ -1,13 +1,13 @@
-import "./globals.css";
-import type { Metadata } from "next";
-import { Mulish } from "next/font/google";
+import './globals.css';
+import type { Metadata } from 'next';
+import { Mulish } from 'next/font/google';
 
 export const metadata: Metadata = {
-  title: "AsanaPad",
-  description: "Create, time, and reuse your yoga class sequences"
+  title: 'AsanaPad',
+  description: 'Create, time, and reuse your yoga class sequences'
 };
 
-const mulish = Mulish({ subsets: ["latin"], weight: ["400", "600", "700"] });
+const mulish = Mulish({ subsets: ['latin'], weight: ['400', '600', '700'] });
 
 export default function RootLayout({
   children

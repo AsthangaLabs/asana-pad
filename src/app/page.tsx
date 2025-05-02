@@ -9,7 +9,7 @@ export default function Home() {
       </section>
 
       <footer className="text-sm text-gray-400 text-center p-4">
-        &copy; 2025 by{" "}
+        &copy; 2025 by{' '}
         <a
           className="underline hover:text-gray-600"
           href="https://github.com/AsthangaLabs"
