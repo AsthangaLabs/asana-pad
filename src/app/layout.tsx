@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className={mulish.className}>
         <Navigation />
         {children}
-        <footer>
+        <footer className="border">
           &copy; 2025 by{' '}
           <a
             href="https://github.com/AsthangaLabs"
